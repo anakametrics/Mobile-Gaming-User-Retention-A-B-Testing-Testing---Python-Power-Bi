@@ -1,4 +1,4 @@
- # Mobile Gaming User Retention – A/B Testing
+ # 🎮 Mobile Gaming User Retention – A/B Testing (Cookie Cats)
 
 📘 Introduction
 
@@ -109,6 +109,10 @@ Earlier gating helps maintain engagement and long-term player retention.
 
 This A/B test reveals that retention is better when the first gate remains at level 30.
 The dashboard and analysis demonstrate a data-driven approach to decision-making in mobile game design — balancing engagement, monetization, and player satisfaction.
+
+Insight
+
+Moving the gate from level 30 to 40 reduces both 1-day and 7-day retention, confirming that earlier gating encourages higher engagement
 
 🛠️ Tools & Technologies
 
