@@ -1,4 +1,4 @@
-**Mobile Gaming User Retention – A/B Testing (Cookie Cats)**
+ Mobile Gaming User Retention – A/B Testing (Cookie Cats)
 
 📘 Introduction
 
